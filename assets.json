@@ -1,0 +1,11 @@
+{
+  "hero": "assets/hero.glb",
+  "coast": "assets/coast.glb",
+  "lighthouse": "assets/lighthouse.glb",
+  "wheel": "assets/wheel.glb",
+  "mountain": "assets/mountain.glb",
+  "platformWide": "assets/platformWide.glb",
+  "platformNarrow": "assets/platformNarrow.glb",
+  "spikes": "assets/spikes.glb",
+  "shoes": "assets/shoes.glb"
+}
