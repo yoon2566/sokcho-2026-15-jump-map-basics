@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "addedOn": "2026-11-02",
+  "studentNumber": 15,
+  "sourceStudentNumber": 15,
+  "status": "assets_only_not_integrated",
+  "warning": "게임 조작, 외형 변형, 충돌 및 재시작은 실제 게임에 연결한 후 확인해야 합니다.",
+  "models": [
+    {
+      "file": "cactus_game_optimized.glb",
+      "bytes": 4865904,
+      "sha256": "6e9185f20d52ef35fa2535924db53cdccfdf61297ba39321a9550a0bef6a0425",
+      "skins": 1,
+      "joints": 28,
+      "animations": [
+        "Airborne",
+        "Complete",
+        "Fall",
+        "Idle",
+        "Land",
+        "Move_Left",
+        "Move_Right",
+        "Takeoff"
+      ],
+      "meshOrigin": "Hunyuan-derived; some first-person equipment may include previous supporting geometry",
+      "rigAndMotionOrigin": "Hunyuan and/or Blender supplemental rig; includes Blender-authored animation",
+      "runtimeIntegrated": false
+    }
+  ]
+}
